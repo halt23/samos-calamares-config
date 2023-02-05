@@ -1,0 +1,12 @@
+- name: "Browsers"
+  description: "Browsers"
+  hidden: false
+  selected: false
+  critical: false
+  expanded: true 
+  packages:
+    - firefox
+    - vivaldi
+    - chromium
+    - falkon
+    - midori
